@@ -1,5 +1,5 @@
 Fitter report for hw1_tutorial
-Sun Jan 26 17:42:04 2025
+Sun Jan 26 18:31:21 2025
 Quartus Prime Version 22.1std.1 Build 917 02/14/2023 SC Lite Edition
 
 
@@ -63,7 +63,7 @@ https://fpgasoftware.intel.com/eula.
 +-------------------------------------------------------------------------------------+
 ; Fitter Summary                                                                      ;
 +------------------------------------+------------------------------------------------+
-; Fitter Status                      ; Successful - Sun Jan 26 17:42:04 2025          ;
+; Fitter Status                      ; Successful - Sun Jan 26 18:31:21 2025          ;
 ; Quartus Prime Version              ; 22.1std.1 Build 917 02/14/2023 SC Lite Edition ;
 ; Revision Name                      ; hw1_tutorial                                   ;
 ; Top-level Entity Name              ; hw1_tutorial                                   ;
@@ -149,12 +149,12 @@ https://fpgasoftware.intel.com/eula.
 ; Number detected on machine ; 16          ;
 ; Maximum allowed            ; 16          ;
 ;                            ;             ;
-; Average used               ; 1.07        ;
+; Average used               ; 1.06        ;
 ; Maximum used               ; 16          ;
 ;                            ;             ;
 ; Usage by Processor         ; % Time Used ;
 ;     Processor 1            ; 100.0%      ;
-;     Processors 2-16        ;   0.5%      ;
+;     Processors 2-16        ;   0.4%      ;
 +----------------------------+-------------+
 
 
@@ -963,9 +963,9 @@ Info (11218): Fitter post-fit operations ending: elapsed time is 00:00:01
 Info (144001): Generated suppressed messages file C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/hw1_tutorial/hw1_tutorial_restored/output_files/hw1_tutorial.fit.smsg
 Info: Quartus Prime Fitter was successful. 0 errors, 6 warnings
     Info: Peak virtual memory: 6701 megabytes
-    Info: Processing ended: Sun Jan 26 17:42:05 2025
-    Info: Elapsed time: 00:00:07
-    Info: Total CPU time (on all processors): 00:00:12
+    Info: Processing ended: Sun Jan 26 18:31:21 2025
+    Info: Elapsed time: 00:00:10
+    Info: Total CPU time (on all processors): 00:00:13
 
 
 +----------------------------+

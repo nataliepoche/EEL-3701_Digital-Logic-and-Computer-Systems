@@ -1,0 +1,11 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/Lab1/Lab1b/Lab1b.bdf
+source_file = 1, C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/Lab1/Lab1b/Waveform.vwf
+source_file = 1, C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/Lab1/Lab1b/db/Lab1b.cbx.xml
+design_name = Lab1b
+instance = comp, \C~I\, C, Lab1b, 1
+instance = comp, \B_L~I\, B_L, Lab1b, 1
+instance = comp, \A~I\, A, Lab1b, 1
+instance = comp, \D_L~I\, D_L, Lab1b, 1
+instance = comp, \inst~0\, inst~0, Lab1b, 1
+instance = comp, \X_L~I\, X_L, Lab1b, 1

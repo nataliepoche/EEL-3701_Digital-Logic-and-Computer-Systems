@@ -1,0 +1,22 @@
+Quartus Prime Archive log --	C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/hw1_tutorial/Quartus_Tutorial.qarlog
+
+Archive:	C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/hw1_tutorial/Quartus_Tutorial.qar
+Date:		Sun Jan 26 21:16:00 2025
+Quartus Prime		22.1std.1 Build 917 02/14/2023 SC Lite Edition
+
+	=========== Files Selected: ===========
+C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/hw1_tutorial/Waveform.vwf
+C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/hw1_tutorial/hw1_tutorial.bdf
+C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/hw1_tutorial/hw1_tutorial.qpf
+C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/hw1_tutorial/hw1_tutorial.qsf
+c:/intelfpga_lite/22.1std/quartus/bin64/assignment_defaults.qdf
+	======= Total: 5 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Tue Jan 28 20:12:08 2025
+Source archive file:	C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/hw1_tutorial/Quartus_Tutorial.qar
+Archive was extracted into	C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/hw1_tutorial/
+		 - successfully.

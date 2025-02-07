@@ -1,8 +1,8 @@
 /*<simulation_settings>
-<ftestbench_cmd>quartus_eda --gen_testbench --tool=modelsim_oem --format=verilog --write_settings_files=off hw1_tutorial -c hw1_tutorial --vector_source="C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/hw1_tutorial/hw1_tutorial_restored/Waveform.vwf" --testbench_file="C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/hw1_tutorial/hw1_tutorial_restored/simulation/qsim/Waveform.vwf.vt"</ftestbench_cmd>
-<ttestbench_cmd>quartus_eda --gen_testbench --tool=modelsim_oem --format=verilog --write_settings_files=off hw1_tutorial -c hw1_tutorial --vector_source="C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/hw1_tutorial/hw1_tutorial_restored/Waveform.vwf" --testbench_file="C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/hw1_tutorial/hw1_tutorial_restored/simulation/qsim/Waveform.vwf.vt"</ttestbench_cmd>
-<fnetlist_cmd>quartus_eda --write_settings_files=off --simulation --functional=on --flatten_buses=off --tool=modelsim_oem --format=verilog --output_directory="C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/hw1_tutorial/hw1_tutorial_restored/simulation/qsim/" hw1_tutorial -c hw1_tutorial</fnetlist_cmd>
-<tnetlist_cmd>quartus_eda --write_settings_files=off --simulation --functional=off --flatten_buses=off --timescale=1ps --tool=modelsim_oem --format=verilog --output_directory="C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/hw1_tutorial/hw1_tutorial_restored/simulation/qsim/" hw1_tutorial -c hw1_tutorial</tnetlist_cmd>
+<ftestbench_cmd>quartus_eda --gen_testbench --tool=modelsim_oem --format=verilog --write_settings_files=off hw1_tutorial -c hw1_tutorial --vector_source="C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/hw1_tutorial/Waveform.vwf" --testbench_file="C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/hw1_tutorial/simulation/qsim/Waveform.vwf.vt"</ftestbench_cmd>
+<ttestbench_cmd>quartus_eda --gen_testbench --tool=modelsim_oem --format=verilog --write_settings_files=off hw1_tutorial -c hw1_tutorial --vector_source="C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/hw1_tutorial/Waveform.vwf" --testbench_file="C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/hw1_tutorial/simulation/qsim/Waveform.vwf.vt"</ttestbench_cmd>
+<fnetlist_cmd>quartus_eda --write_settings_files=off --simulation --functional=on --flatten_buses=off --tool=modelsim_oem --format=verilog --output_directory="C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/hw1_tutorial/simulation/qsim/" hw1_tutorial -c hw1_tutorial</fnetlist_cmd>
+<tnetlist_cmd>quartus_eda --write_settings_files=off --simulation --functional=off --flatten_buses=off --timescale=1ps --tool=modelsim_oem --format=verilog --output_directory="C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/hw1_tutorial/simulation/qsim/" hw1_tutorial -c hw1_tutorial</tnetlist_cmd>
 <modelsim_script>onerror {exit -code 1}
 vlib work
 vlog -work work hw1_tutorial.vo
@@ -116,6 +116,11 @@ SIGNAL("Y")
 	PARENT = "";
 }
 
+GROUP("Inputs")
+{
+	MEMBERS = "A", "B", "C";
+}
+
 TRANSITION_LIST("A")
 {
 	NODE
@@ -170,11 +175,22 @@ TRANSITION_LIST("Y")
 
 DISPLAY_LINE
 {
-	CHANNEL = "A";
-	EXPAND_STATUS = COLLAPSED;
+	CHANNEL = "Inputs";
+	EXPAND_STATUS = EXPANDED;
 	RADIX = Binary;
 	TREE_INDEX = 0;
 	TREE_LEVEL = 0;
+	CHILDREN = 1, 2, 3;
+}
+
+DISPLAY_LINE
+{
+	CHANNEL = "A";
+	EXPAND_STATUS = COLLAPSED;
+	RADIX = Binary;
+	TREE_INDEX = 1;
+	TREE_LEVEL = 1;
+	PARENT = 0;
 }
 
 DISPLAY_LINE
@@ -182,8 +198,9 @@ DISPLAY_LINE
 	CHANNEL = "B";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
-	TREE_INDEX = 1;
-	TREE_LEVEL = 0;
+	TREE_INDEX = 2;
+	TREE_LEVEL = 1;
+	PARENT = 0;
 }
 
 DISPLAY_LINE
@@ -191,8 +208,9 @@ DISPLAY_LINE
 	CHANNEL = "C";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
-	TREE_INDEX = 2;
-	TREE_LEVEL = 0;
+	TREE_INDEX = 3;
+	TREE_LEVEL = 1;
+	PARENT = 0;
 }
 
 DISPLAY_LINE
@@ -200,7 +218,7 @@ DISPLAY_LINE
 	CHANNEL = "Y";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
-	TREE_INDEX = 3;
+	TREE_INDEX = 4;
 	TREE_LEVEL = 0;
 }
 

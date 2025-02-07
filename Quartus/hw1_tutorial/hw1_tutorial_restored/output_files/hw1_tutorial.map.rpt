@@ -1,5 +1,5 @@
 Analysis & Synthesis report for hw1_tutorial
-Sun Jan 26 17:41:56 2025
+Sun Jan 26 18:31:10 2025
 Quartus Prime Version 22.1std.1 Build 917 02/14/2023 SC Lite Edition
 
 
@@ -43,7 +43,7 @@ https://fpgasoftware.intel.com/eula.
 +-------------------------------------------------------------------------------------+
 ; Analysis & Synthesis Summary                                                        ;
 +------------------------------------+------------------------------------------------+
-; Analysis & Synthesis Status        ; Successful - Sun Jan 26 17:41:56 2025          ;
+; Analysis & Synthesis Status        ; Successful - Sun Jan 26 18:31:10 2025          ;
 ; Quartus Prime Version              ; 22.1std.1 Build 917 02/14/2023 SC Lite Edition ;
 ; Revision Name                      ; hw1_tutorial                                   ;
 ; Top-level Entity Name              ; hw1_tutorial                                   ;
@@ -260,7 +260,7 @@ Note: For table entries with two numbers listed, the numbers in parentheses indi
 Info: *******************************************************************
 Info: Running Quartus Prime Analysis & Synthesis
     Info: Version 22.1std.1 Build 917 02/14/2023 SC Lite Edition
-    Info: Processing started: Sun Jan 26 17:41:46 2025
+    Info: Processing started: Sun Jan 26 18:31:00 2025
 Info: Command: quartus_map --read_settings_files=on --write_settings_files=off hw1_tutorial -c hw1_tutorial
 Warning (18236): Number of processors has not been specified which may cause overloading on shared machines.  Set the global assignment NUM_PARALLEL_PROCESSORS in your QSF to an appropriate value for best performance.
 Info (20030): Parallel compilation is enabled and will use 16 of the 16 processors detected
@@ -276,7 +276,7 @@ Info (21057): Implemented 5 device resources after synthesis - the final resourc
     Info (21061): Implemented 1 logic cells
 Info: Quartus Prime Analysis & Synthesis was successful. 0 errors, 1 warning
     Info: Peak virtual memory: 4799 megabytes
-    Info: Processing ended: Sun Jan 26 17:41:56 2025
+    Info: Processing ended: Sun Jan 26 18:31:10 2025
     Info: Elapsed time: 00:00:10
     Info: Total CPU time (on all processors): 00:00:24
 
