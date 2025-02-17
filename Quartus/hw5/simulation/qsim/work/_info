@@ -1,0 +1,73 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/hw5/simulation/qsim
+vhard_block
+Z1 !s110 1739755531
+!i10b 1
+!s100 4XU7aIE@Y^PK=Xb5>oDB21
+ID7=k@;fPXZOMh^^S2GzlQ1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1739755529
+Z4 8hw5.vo
+Z5 Fhw5.vo
+L0 346
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1739755531.000000
+Z8 !s107 hw5.vo|
+Z9 !s90 -work|work|hw5.vo|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+vhw5
+R1
+!i10b 1
+!s100 `mD4USD7WO5?[kVP4^m1A1
+I=`zU6ZkW1SWOjEQ^CDGQ21
+R2
+R0
+R3
+R4
+R5
+L0 32
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vhw5_vlg_vec_tst
+R1
+!i10b 1
+!s100 nh1jU62Go10O3lc8X:k^f2
+I5RGe;QV<E9PO6YEDF:>T@1
+R2
+R0
+w1739755528
+8Waveform1.vwf.vt
+FWaveform1.vwf.vt
+L0 30
+R6
+r1
+!s85 0
+31
+R7
+!s107 Waveform1.vwf.vt|
+!s90 -work|work|Waveform1.vwf.vt|
+!i113 1
+R10
+R11

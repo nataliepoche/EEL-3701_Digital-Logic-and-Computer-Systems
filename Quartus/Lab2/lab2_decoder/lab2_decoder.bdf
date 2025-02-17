@@ -1,0 +1,27 @@
+/*
+WARNING: Do NOT edit the input and output ports in this file in a text
+editor if you plan to continue editing the block that represents it in
+the Block Editor! File corruption is VERY likely to occur.
+*/
+/*
+Copyright (C) 2023  Intel Corporation. All rights reserved.
+Your use of Intel Corporation's design tools, logic functions 
+and other software and tools, and any partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Intel Program License 
+Subscription Agreement, the Intel Quartus Prime License Agreement,
+the Intel FPGA IP License Agreement, or other applicable license
+agreement, including, without limitation, that your use is for
+the sole purpose of programming logic devices manufactured by
+Intel and sold by Intel or its authorized distributors.  Please
+refer to the applicable agreement for further details, at
+https://fpgasoftware.intel.com/eula.
+*/
+(header "graphic" (version "1.4"))
+(text "Lab 2, Part C" (rect 48 40 136 60)(font "Intel Clear" (font_size 8)))
+(text "Name: Natalie Poche" (rect 48 64 191 84)(font "Intel Clear" (font_size 8)))
+(text "Class #: 11198" (rect 48 88 151 108)(font "Intel Clear" (font_size 8)))
+(text "PI Name: Jaiden Magnan" (rect 48 112 220 132)(font "Intel Clear" (font_size 8)))
+(text "Description: Hex to 7 segment decorder" (rect 48 136 324 156)(font "Intel Clear" (font_size 8)))

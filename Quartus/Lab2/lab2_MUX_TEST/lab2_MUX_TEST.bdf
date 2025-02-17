@@ -1,0 +1,139 @@
+/*
+WARNING: Do NOT edit the input and output ports in this file in a text
+editor if you plan to continue editing the block that represents it in
+the Block Editor! File corruption is VERY likely to occur.
+*/
+/*
+Copyright (C) 2023  Intel Corporation. All rights reserved.
+Your use of Intel Corporation's design tools, logic functions 
+and other software and tools, and any partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Intel Program License 
+Subscription Agreement, the Intel Quartus Prime License Agreement,
+the Intel FPGA IP License Agreement, or other applicable license
+agreement, including, without limitation, that your use is for
+the sole purpose of programming logic devices manufactured by
+Intel and sold by Intel or its authorized distributors.  Please
+refer to the applicable agreement for further details, at
+https://fpgasoftware.intel.com/eula.
+*/
+(header "graphic" (version "1.4"))
+(symbol
+	(rect 216 200 336 424)
+	(text "74153" (rect 42 0 95 19)(font "Arial" (font_size 10)))
+	(text "inst" (rect 3 213 21 226)(font "Arial" (font_size 6)))
+	(port
+		(pt 0 88)
+		(input)
+		(text "1C1" (rect 21 79 48 95)(font "Arial" (font_size 8)))
+		(text "1C1" (rect 21 79 48 95)(font "Arial" (font_size 8)))
+		(line (pt 0 88)(pt 16 88))
+	)
+	(port
+		(pt 0 56)
+		(input)
+		(text "1GN" (rect 21 47 51 63)(font "Arial" (font_size 8)))
+		(text "1GN" (rect 21 47 51 63)(font "Arial" (font_size 8)))
+		(line (pt 0 56)(pt 8 56))
+	)
+	(port
+		(pt 0 72)
+		(input)
+		(text "1C0" (rect 21 63 48 79)(font "Arial" (font_size 8)))
+		(text "1C0" (rect 21 63 48 79)(font "Arial" (font_size 8)))
+		(line (pt 0 72)(pt 16 72))
+	)
+	(port
+		(pt 0 152)
+		(input)
+		(text "2C0" (rect 21 143 48 159)(font "Arial" (font_size 8)))
+		(text "2C0" (rect 21 143 48 159)(font "Arial" (font_size 8)))
+		(line (pt 0 152)(pt 16 152))
+	)
+	(port
+		(pt 0 136)
+		(input)
+		(text "2GN" (rect 21 127 51 143)(font "Arial" (font_size 8)))
+		(text "2GN" (rect 21 127 51 143)(font "Arial" (font_size 8)))
+		(line (pt 0 136)(pt 8 136))
+	)
+	(port
+		(pt 0 184)
+		(input)
+		(text "2C2" (rect 21 175 48 191)(font "Arial" (font_size 8)))
+		(text "2C2" (rect 21 175 48 191)(font "Arial" (font_size 8)))
+		(line (pt 0 184)(pt 16 184))
+	)
+	(port
+		(pt 0 104)
+		(input)
+		(text "1C2" (rect 21 95 48 111)(font "Arial" (font_size 8)))
+		(text "1C2" (rect 21 95 48 111)(font "Arial" (font_size 8)))
+		(line (pt 0 104)(pt 16 104))
+	)
+	(port
+		(pt 0 120)
+		(input)
+		(text "1C3" (rect 21 111 48 127)(font "Arial" (font_size 8)))
+		(text "1C3" (rect 21 111 48 127)(font "Arial" (font_size 8)))
+		(line (pt 0 120)(pt 16 120))
+	)
+	(port
+		(pt 0 40)
+		(input)
+		(text "B" (rect 21 33 31 49)(font "Arial" (font_size 8)))
+		(text "B" (rect 21 33 31 49)(font "Arial" (font_size 8)))
+		(line (pt 0 40)(pt 16 40))
+	)
+	(port
+		(pt 0 24)
+		(input)
+		(text "A" (rect 21 17 31 33)(font "Arial" (font_size 8)))
+		(text "A" (rect 21 17 31 33)(font "Arial" (font_size 8)))
+		(line (pt 0 24)(pt 16 24))
+	)
+	(port
+		(pt 0 168)
+		(input)
+		(text "2C1" (rect 21 159 48 175)(font "Arial" (font_size 8)))
+		(text "2C1" (rect 21 159 48 175)(font "Arial" (font_size 8)))
+		(line (pt 0 168)(pt 16 168))
+	)
+	(port
+		(pt 0 200)
+		(input)
+		(text "2C3" (rect 21 190 48 206)(font "Arial" (font_size 8)))
+		(text "2C3" (rect 21 190 48 206)(font "Arial" (font_size 8)))
+		(line (pt 0 200)(pt 16 200))
+	)
+	(port
+		(pt 120 104)
+		(output)
+		(text "1Y" (rect 86 97 104 113)(font "Arial" (font_size 8)))
+		(text "1Y" (rect 84 97 102 113)(font "Arial" (font_size 8)))
+		(line (pt 104 104)(pt 120 104))
+	)
+	(port
+		(pt 120 120)
+		(output)
+		(text "2Y" (rect 86 113 104 129)(font "Arial" (font_size 8)))
+		(text "2Y" (rect 84 113 102 129)(font "Arial" (font_size 8)))
+		(line (pt 104 120)(pt 120 120))
+	)
+	(drawing
+		(text "MULTIPLEXER" (rect 27 209 129 225)(font "Arial" (font_size 8)))
+		(line (pt 16 16)(pt 104 16))
+		(line (pt 16 208)(pt 104 208))
+		(line (pt 16 208)(pt 16 16))
+		(line (pt 104 208)(pt 104 16))
+		(circle (rect 8 52 16 60))
+		(circle (rect 8 132 16 140))
+	)
+)
+(text "Lab 2, Part D" (rect 32 32 121 52)(font "Intel Clear" (font_size 8)))
+(text "Name: Natalie Poche" (rect 32 56 175 76)(font "Intel Clear" (font_size 8)))
+(text "Class #: 11198" (rect 32 80 135 100)(font "Intel Clear" (font_size 8)))
+(text "PI Name: Jaiden Magnan" (rect 32 104 204 124)(font "Intel Clear" (font_size 8)))
+(text "Description: 74'153 MUX Test" (rect 32 128 240 148)(font "Intel Clear" (font_size 8)))

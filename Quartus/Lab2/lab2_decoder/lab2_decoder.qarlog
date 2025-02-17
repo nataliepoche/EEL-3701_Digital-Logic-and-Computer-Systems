@@ -1,0 +1,18 @@
+Quartus Prime Archive log --	C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/Lab2/lab2_decoder/lab2_decoder.qarlog
+
+Archive:	C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/Lab2/lab2_decoder/lab2_decoder.qar
+Date:		Thu Feb 13 17:14:46 2025
+Quartus Prime		22.1std.1 Build 917 02/14/2023 SC Lite Edition
+
+	=========== Files Selected: ===========
+C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/Lab2/lab2_decoder/lab2_decoder.bdf
+C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/Lab2/lab2_decoder/lab2_decoder.qpf
+C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/Lab2/lab2_decoder/lab2_decoder.qsf
+C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/Lab2/lab2_decoder/output_files/lab2_decoder.flow.rpt
+C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/Lab2/lab2_decoder/output_files/lab2_decoder.map.rpt
+C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/Lab2/lab2_decoder/output_files/lab2_decoder.map.summary
+c:/intelfpga_lite/22.1std/quartus/bin64/assignment_defaults.qdf
+	======= Total: 7 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
