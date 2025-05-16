@@ -1,0 +1,23 @@
+Quartus Prime Archive log --	C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/Lab4/Lab4_RALU/Lab4_RALU.qarlog
+
+Archive:	C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/Lab4/Lab4_RALU/Lab4_RALU.qar
+Date:		Thu Mar 13 17:20:46 2025
+Quartus Prime		22.1std.1 Build 917 02/14/2023 SC Lite Edition
+
+	=========== Files Selected: ===========
+C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/Lab2/emilee/lab2_decoder_restored/lab2_decoder.bdf
+C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/Lab4/Lab4_RALU/Lab4_RALU.bdf
+C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/Lab4/Lab4_RALU/Lab4_RALU.qpf
+C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/Lab4/Lab4_RALU/Lab4_RALU.qsf
+C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/Lab4/Lab4_RALU/Waveform.vwf
+c:/intelfpga_lite/22.1std/quartus/bin64/assignment_defaults.qdf
+	======= Total: 6 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Thu Mar 13 18:09:26 2025
+Source archive file:	C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/Lab4/Lab4_RALU/Lab4_RALU.qar
+Archive was extracted into	C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/Lab4/Lab4_RALU/Lab4_RALU_restored/
+		 - successfully.

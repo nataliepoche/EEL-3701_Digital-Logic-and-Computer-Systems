@@ -1,0 +1,215 @@
+$comment
+	File created using the following command:
+		vcd file Practical1.msim.vcd -direction
+$end
+$date
+	Mon Mar 03 22:06:46 2025
+$end
+$version
+	ModelSim Version 10.5b
+$end
+$timescale
+	1ps
+$end
+
+$scope module Practical1_vlg_vec_tst $end
+$var reg 1 ! A $end
+$var reg 1 " B_L $end
+$var reg 1 # CLK $end
+$var reg 1 $ Start_L $end
+$var wire 1 % Q0 $end
+$var wire 1 & Q1 $end
+$var wire 1 ' Y_L $end
+
+$scope module i1 $end
+$var wire 1 ( gnd $end
+$var wire 1 ) vcc $end
+$var wire 1 * unknown $end
+$var tri1 1 + devclrn $end
+$var tri1 1 , devpor $end
+$var tri1 1 - devoe $end
+$var wire 1 . Start_L~input_o $end
+$var wire 1 / CLK~input_o $end
+$var wire 1 0 ~QUARTUS_CREATED_GND~I_combout $end
+$var wire 1 1 ~QUARTUS_CREATED_UNVM~~busy $end
+$var wire 1 2 ~QUARTUS_CREATED_ADC1~~eoc $end
+$var wire 1 3 ~QUARTUS_CREATED_ADC2~~eoc $end
+$var wire 1 4 Q1~output_o $end
+$var wire 1 5 Q0~output_o $end
+$var wire 1 6 Y_L~output_o $end
+$var wire 1 7 A~input_o $end
+$var wire 1 8 B_L~input_o $end
+$var wire 1 9 inst11~combout $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+1!
+1"
+0#
+1$
+0%
+0&
+1'
+0(
+1)
+x*
+1+
+1,
+1-
+1.
+0/
+00
+z1
+z2
+z3
+04
+05
+16
+17
+18
+19
+$end
+#25000
+1#
+1/
+#50000
+0#
+0/
+#75000
+1#
+1/
+#100000
+0#
+0/
+#125000
+1#
+1/
+#150000
+0#
+0/
+#175000
+1#
+1/
+#200000
+0#
+0/
+#225000
+1#
+1/
+#250000
+0#
+0/
+#275000
+1#
+1/
+#300000
+0#
+0/
+#325000
+1#
+1/
+#350000
+0#
+0/
+#375000
+1#
+1/
+#400000
+0#
+0/
+#425000
+1#
+1/
+#450000
+0#
+0/
+#475000
+1#
+1/
+#500000
+0#
+0/
+#525000
+1#
+1/
+#550000
+0#
+0/
+#575000
+1#
+1/
+#600000
+0#
+0/
+#625000
+1#
+1/
+#650000
+0#
+0/
+#675000
+1#
+1/
+#700000
+0#
+0/
+#725000
+1#
+1/
+#750000
+0#
+0/
+#775000
+1#
+1/
+#800000
+0#
+0/
+#825000
+1#
+1/
+#850000
+0#
+0/
+#875000
+1#
+1/
+#900000
+0#
+0/
+#925000
+1#
+1/
+#950000
+0#
+0/
+#975000
+1#
+1/
+#1000000
+0#
+0/
+#1025000
+1#
+1/
+#1050000
+0#
+0/
+#1075000
+1#
+1/
+#1100000
+0#
+0/
+#1125000
+1#
+1/
+#1150000
+0#
+0/
+#1175000
+1#
+1/
+#1200000

@@ -1,0 +1,53 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/Lab3/S-R_Latch_2NOR/simulation/qsim
+v\S-R_Latch_2NOR 
+Z1 !s110 1740532263
+!i10b 1
+!s100 G<jK@AaT_i91T22Ck:6?k0
+I@]i0Jg8KJ189[j>2o1SlF1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1740532263
+Z4 8S-R_Latch_2NOR.vo
+Z5 FS-R_Latch_2NOR.vo
+L0 32
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1740532263.000000
+Z8 !s107 S-R_Latch_2NOR.vo|
+Z9 !s90 -work|work|S-R_Latch_2NOR.vo|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+n@134@s-@r_@latch_2@n@o@r@040
+vhard_block
+R1
+!i10b 1
+!s100 QHd9[3A8zGGhLM795?:@E1
+IcWIoKm<<dgF:f:gR5nAEU1
+R2
+R0
+R3
+R4
+R5
+L0 267
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11

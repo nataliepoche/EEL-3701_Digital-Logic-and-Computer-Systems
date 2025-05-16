@@ -1,0 +1,14 @@
+% Automated build for Lab7Part2Work.asm % 
+DEPTH = 4096;
+WIDTH = 8;
+ADDRESS_RADIX = HEX;
+DATA_RADIX = HEX;
+CONTENT
+BEGIN
+
+0000		:	03;	-- COUNTER dc.b 3
+
+[0001..0fff]	:	00;
+
+
+END

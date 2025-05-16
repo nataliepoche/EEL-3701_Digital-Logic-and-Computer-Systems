@@ -1,0 +1,241 @@
+$comment
+	File created using the following command:
+		vcd file Practial2.msim.vcd -direction
+$end
+$date
+	Wed Apr 16 22:12:23 2025
+$end
+$version
+	ModelSim Version 10.5b
+$end
+$timescale
+	1ps
+$end
+
+$scope module Practial2_vlg_vec_tst $end
+$var reg 1 ! CLK $end
+$var reg 1 " Go_L $end
+$var reg 1 # Move $end
+$var reg 1 $ Start_L $end
+$var wire 1 % Q0 $end
+$var wire 1 & Sp_L $end
+$var wire 1 ' T0 $end
+$var wire 1 ( Y0 $end
+$var wire 1 ) Y1 $end
+$var wire 1 * Y2 $end
+$var wire 1 + Y3 $end
+
+$scope module i1 $end
+$var wire 1 , gnd $end
+$var wire 1 - vcc $end
+$var wire 1 . unknown $end
+$var tri1 1 / devclrn $end
+$var tri1 1 0 devpor $end
+$var tri1 1 1 devoe $end
+$var wire 1 2 ~QUARTUS_CREATED_GND~I_combout $end
+$var wire 1 3 ~QUARTUS_CREATED_UNVM~~busy $end
+$var wire 1 4 ~QUARTUS_CREATED_ADC1~~eoc $end
+$var wire 1 5 ~QUARTUS_CREATED_ADC2~~eoc $end
+$var wire 1 6 Y3~output_o $end
+$var wire 1 7 Y2~output_o $end
+$var wire 1 8 Y1~output_o $end
+$var wire 1 9 Y0~output_o $end
+$var wire 1 : Q0~output_o $end
+$var wire 1 ; T0~output_o $end
+$var wire 1 < Sp_L~output_o $end
+$var wire 1 = Go_L~input_o $end
+$var wire 1 > Move~input_o $end
+$var wire 1 ? CLK~input_o $end
+$var wire 1 @ inst15~0_combout $end
+$var wire 1 A Start_L~input_o $end
+$var wire 1 B inst15~q $end
+$var wire 1 C inst10~0_combout $end
+$var wire 1 D inst38~0_combout $end
+$var wire 1 E inst13~0_combout $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0!
+1"
+1#
+0$
+1%
+1&
+0'
+1(
+1)
+0*
+1+
+0,
+1-
+x.
+1/
+10
+11
+02
+z3
+z4
+z5
+16
+07
+18
+19
+1:
+0;
+1<
+1=
+1>
+0?
+0@
+0A
+0B
+1C
+0D
+0E
+$end
+#25000
+1$
+1!
+1A
+1?
+#50000
+0!
+0?
+#75000
+1!
+1?
+#100000
+0!
+0?
+#125000
+1!
+1?
+#150000
+0!
+0?
+#175000
+1!
+1?
+#200000
+0!
+0?
+#225000
+1!
+1?
+#250000
+0!
+0?
+#275000
+1!
+1?
+#300000
+0!
+0?
+#325000
+1!
+1?
+#350000
+0!
+0?
+#375000
+1!
+1?
+#400000
+0!
+0?
+#425000
+1!
+1?
+#450000
+0!
+0?
+#475000
+1!
+1?
+#500000
+0!
+0?
+#525000
+1!
+1?
+#550000
+0!
+0?
+#575000
+1!
+1?
+#600000
+0!
+0?
+#625000
+1!
+1?
+#650000
+0!
+0?
+#675000
+1!
+1?
+#700000
+0!
+0?
+#725000
+1!
+1?
+#750000
+0!
+0?
+#775000
+1!
+1?
+#800000
+0!
+0?
+#825000
+1!
+1?
+#850000
+0!
+0?
+#875000
+1!
+1?
+#900000
+0!
+0?
+#925000
+1!
+1?
+#950000
+0!
+0?
+#975000
+1!
+1?
+#1000000
+0!
+0?
+#1025000
+1!
+1?
+#1050000
+0!
+0?
+#1075000
+1!
+1?
+#1100000
+0!
+0?
+#1125000
+1!
+1?
+#1150000
+0!
+0?
+#1175000
+1!
+1?
+#1200000

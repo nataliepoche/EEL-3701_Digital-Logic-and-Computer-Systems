@@ -1,0 +1,6 @@
+library ieee;
+use ieee.std_logic_1164.all;
+
+entity Lab5_DFF_Traf_Cont is port ( -- Make sure name is same as file name.
+	
+	);

@@ -1,0 +1,19 @@
+-- Lab 6
+-- Name: Natalie Poche
+-- Class#: 11198
+-- PI Name: Jaiden Magnan
+-- Due: April 10, 2025
+
+library ieee;
+use ieee.std_logic_1164.all;
+
+entity Controller is port (
+	-- Inputs
+	
+	-- Outputs
+	);
+	end Contoller;
+
+	architecture behavior of Controller is
+		begin
+		end behavior;

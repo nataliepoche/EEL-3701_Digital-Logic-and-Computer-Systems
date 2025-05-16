@@ -1,0 +1,31 @@
+library ieee;
+use ieee.std_logic_1164.all;
+
+entity comLog is port(
+
+	-- Inputs
+	A_L: in std_logic;
+	
+	-- outputs
+	Q2: out std_logic;
+	Q1: out std_logic;
+	Q0: out std_logic;
+	D2: out std_logic;
+	D1: out std_logic;
+	D0: out std_logic;
+	TS: out std_logic;
+	F: out std_logic
+
+);
+end comLog;
+
+architecture behav of comLog is(
+	A: out std_logic;
+	begin
+	A <= not A_L;
+	
+	-- ((not Q2) and (not Q1) and (not Q0) and (not A)) or
+	F <= 
+
+);
+end behav;

@@ -1,0 +1,52 @@
+% Automated build for Quiz7.asm % 
+DEPTH = 4096;
+WIDTH = 8;
+ADDRESS_RADIX = HEX;
+DATA_RADIX = HEX;
+CONTENT
+BEGIN
+
+0000		:	08;	-- ldx #$1037, loads x
+0001		:	37;
+0002		:	10;
+
+0003		:	09;	-- ldy #$1000, load's y
+0004		:	00;
+0005		:	10;
+
+0006		:	03;	-- ldab #00
+0007		:	00;
+
+0008		:	02;	-- ldaa #01
+0009		:	01;
+
+000a		:	0F;	-- ldab 0,y
+000b		:	00;
+
+000c		:	07;	--stab $1000
+000d		:	00;
+000e		:	10;
+
+000f		:	15;	-- sum_ab, updates y
+
+0010		:	13;	-- stab 0,y stores updated y
+0011		:	00;
+
+0012		:	31; 	-- iny, goes to next y output location
+
+0013		:	1B;	-- comb, 1's compliment of b
+
+0014		:	15;	-- sum_ab, 2's compliment of b
+
+0015		:	0C;	-- ldaa 0,x, loads random N value
+0016		:	00;
+
+0017		:	14;	-- sum_ba, A = A-B
+
+0018		:	21;	-- bne LOOP, If A is not 0, then loop again
+0019		:	08;
+
+[001A..0fff]	:	00;
+
+
+END;

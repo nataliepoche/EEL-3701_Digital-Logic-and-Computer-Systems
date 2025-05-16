@@ -1,0 +1,14 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/Lab3/S-R_Latch_2NOR/S-R_Latch_2NOR.bdf
+source_file = 1, C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/Lab3/S-R_Latch_2NOR/Waveform.vwf
+source_file = 1, C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/Lab3/S-R_Latch_2NOR/db/S-R_Latch_2NOR.cbx.xml
+design_name = hard_block
+design_name = \S-R_Latch_2NOR\
+instance = comp, \~QUARTUS_CREATED_GND~I\, ~QUARTUS_CREATED_GND~I, \S-R_Latch_2NOR\, 1
+instance = comp, \Q_L~output\, Q_L~output, \S-R_Latch_2NOR\, 1
+instance = comp, \Q~output\, Q~output, \S-R_Latch_2NOR\, 1
+instance = comp, \S~input\, S~input, \S-R_Latch_2NOR\, 1
+instance = comp, \R~input\, R~input, \S-R_Latch_2NOR\, 1
+instance = comp, \~QUARTUS_CREATED_UNVM~\, ~QUARTUS_CREATED_UNVM~, \S-R_Latch_2NOR\, 1
+instance = comp, \~QUARTUS_CREATED_ADC1~\, ~QUARTUS_CREATED_ADC1~, \S-R_Latch_2NOR\, 1
+instance = comp, \~QUARTUS_CREATED_ADC2~\, ~QUARTUS_CREATED_ADC2~, \S-R_Latch_2NOR\, 1

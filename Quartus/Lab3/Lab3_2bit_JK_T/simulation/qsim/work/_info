@@ -1,0 +1,75 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/Lab3/Lab3_2bit_JK_T/simulation/qsim
+vhard_block
+!s110 1740693654
+!i10b 1
+!s100 L_ACG71Sk5LBNNfLB<ieE0
+IbkM9Q_6Fg6H]4PdAdWWX`0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z2 w1740693650
+Z3 8Lab3_2bit_JK_T.vo
+Z4 FLab3_2bit_JK_T.vo
+L0 335
+Z5 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z6 !s108 1740693653.000000
+Z7 !s107 Lab3_2bit_JK_T.vo|
+Z8 !s90 -work|work|Lab3_2bit_JK_T.vo|
+!i113 1
+Z9 o-work work
+Z10 tCvgOpt 0
+vLab3_2bit_JK_T
+!s110 1740693653
+!i10b 1
+!s100 =lQoV_Y_idJeF<Pc]bD7a2
+IAI@IjkZ;TMHMYkbV8zf_C1
+R1
+R0
+R2
+R3
+R4
+L0 32
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R9
+R10
+n@lab3_2bit_@j@k_@t
+vLab3_2bit_JK_T_vlg_vec_tst
+!s110 1740693655
+!i10b 1
+!s100 neVoWh9Un?K_oMA]adVQF3
+ILm609idLV3G4zZR]Onj<m3
+R1
+R0
+w1740693648
+8Waveform.vwf.vt
+FWaveform.vwf.vt
+L0 30
+R5
+r1
+!s85 0
+31
+!s108 1740693654.000000
+!s107 Waveform.vwf.vt|
+!s90 -work|work|Waveform.vwf.vt|
+!i113 1
+R9
+R10
+n@lab3_2bit_@j@k_@t_vlg_vec_tst

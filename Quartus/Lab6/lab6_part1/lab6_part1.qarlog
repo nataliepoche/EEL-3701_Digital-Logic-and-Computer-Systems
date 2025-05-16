@@ -1,0 +1,20 @@
+Quartus Prime Archive log --	C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/Lab6/lab6_part1/lab6_part1.qarlog
+
+Archive:	C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/Lab6/lab6_part1/lab6_part1.qar
+Date:		Thu Apr 10 17:43:48 2025
+Quartus Prime		22.1std.1 Build 917 02/14/2023 SC Lite Edition
+
+	=========== Files Selected: ===========
+C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/Lab4/Lab4_RALU/Lab4_RALU_restored/Lab4/Lab4_RALU/Lab4_RALU.bdf
+C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/Lab6/lab6_part1/Controller.vhd
+C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/Lab6/lab6_part1/IR.bdf
+C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/Lab6/lab6_part1/Lab4_RALU.bsf
+C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/Lab6/lab6_part1/Waveform.vwf
+C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/Lab6/lab6_part1/lab6_part1.bdf
+C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/Lab6/lab6_part1/lab6_part1.qpf
+C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/Lab6/lab6_part1/lab6_part1.qsf
+c:/intelfpga_lite/22.1std/quartus/bin64/assignment_defaults.qdf
+	======= Total: 9 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.

@@ -1,0 +1,10 @@
+|Practical1
+Q0 <= inst1.DB_MAX_OUTPUT_PORT_TYPE
+Start_L => inst1.PRESET
+A => inst12.IN0
+B_L => inst3.IN0
+B_L => inst4.IN1
+CLK => inst1.CLK
+Y_L <= inst4.DB_MAX_OUTPUT_PORT_TYPE
+
+

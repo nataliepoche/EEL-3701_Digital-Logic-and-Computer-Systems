@@ -1,0 +1,33 @@
+Quartus Prime Archive log --	C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/Lab6/Lab6_part2/LAB6_Part2.qarlog
+
+Archive:	C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/Lab6/Lab6_part2/LAB6_Part2.qar
+Date:		Thu Apr 10 17:42:02 2025
+Quartus Prime		22.1std.1 Build 917 02/14/2023 SC Lite Edition
+
+	=========== Files Selected: ===========
+C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/Lab2/finished/lab2_decoder_restored/lab2_decoder.bdf
+C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/Lab4/Lab4_RALU/Lab4_RALU_restored/Lab4/Lab4_RALU/Lab4_RALU.bdf
+C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/Lab6/Lab6_part2/Controller.vhd
+C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/Lab6/Lab6_part2/IR.bdf
+C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/Lab6/Lab6_part2/LAB6_Part2.bdf
+C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/Lab6/Lab6_part2/LAB6_Part2.qpf
+C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/Lab6/Lab6_part2/LAB6_Part2.qsf
+C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/Lab6/Lab6_part2/Lab4_RALU.bsf
+C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/Lab6/Lab6_part2/ROM.bdf
+C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/Lab6/Lab6_part2/Waveform.vwf
+C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/Lab6/Lab6_part2/rom_32k.bsf
+C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/Lab6/Lab6_part2/rom_32k.cmp
+C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/Lab6/Lab6_part2/rom_32k.mif
+C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/Lab6/Lab6_part2/rom_32k.qip
+C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/Lab6/Lab6_part2/rom_32k.vhd
+c:/intelfpga_lite/22.1std/quartus/bin64/assignment_defaults.qdf
+	======= Total: 16 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Thu Apr 10 17:47:11 2025
+Source archive file:	C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/Lab6/Lab6_part2/LAB6_Part2.qar
+Archive was extracted into	C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/Lab6/Lab6_part2/LAB6_Part2_restored/
+		 - successfully.

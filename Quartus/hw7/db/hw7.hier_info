@@ -1,0 +1,9 @@
+|hw7
+Q_NAND <= inst.DB_MAX_OUTPUT_PORT_TYPE
+R_L => inst1.IN0
+S_L => inst.IN1
+Q_NOR <= inst3.DB_MAX_OUTPUT_PORT_TYPE
+R => inst3.IN0
+S => inst2.IN1
+
+

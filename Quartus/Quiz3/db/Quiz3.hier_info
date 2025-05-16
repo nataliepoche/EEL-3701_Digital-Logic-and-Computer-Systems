@@ -1,0 +1,12 @@
+|Quiz3
+Q1 <= inst4.DB_MAX_OUTPUT_PORT_TYPE
+Start_L => inst4.ACLR
+Start_L => inst5.ACLR
+Start_L => inst10.ACLR
+CLK => inst4.CLK
+CLK => inst5.CLK
+CLK => inst10.CLK
+Q0 <= inst5.DB_MAX_OUTPUT_PORT_TYPE
+Q2 <= inst10.DB_MAX_OUTPUT_PORT_TYPE
+
+

@@ -1,0 +1,20 @@
+% Automated build for Lab7Part2Work.asm % 
+DEPTH = 4096;
+WIDTH = 8;
+ADDRESS_RADIX = HEX;
+DATA_RADIX = HEX;
+CONTENT
+BEGIN
+
+[0000..0E3A]	:	FF;
+0E3B: 03; % Table Size %
+0E3C: 00; % Loop COunter %
+0E3D: 04; % Num1A %
+0E3E: 07; % Num1B %
+0E3F: 05; % Num2A %
+0E40: 08; % Num2B %
+0E41: 03; % Num3A %
+0E42: 04; % Num3B %
+[0E43..0FFF]: 00;
+
+END

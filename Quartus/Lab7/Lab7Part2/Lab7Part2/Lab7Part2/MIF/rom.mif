@@ -1,0 +1,66 @@
+% Automated build for Lab7Part2.asm % 
+DEPTH = 4096;
+WIDTH = 8;
+ADDRESS_RADIX = HEX;
+DATA_RADIX = HEX;
+CONTENT
+BEGIN
+
+0000		:	02;	-- ldaa #$FE
+0001		:	FE;
+
+0002		:	06;	-- staa START
+0003		:	FE;
+0004		:	1A;
+
+0005		:	02;	-- ldaa #$1F
+0006		:	1F;
+
+0007		:	06;	-- staa START+1
+0008		:	FF;
+0009		:	1A;
+
+000a		:	02;	-- ldaa #$03
+000b		:	03;
+
+000c		:	06;	-- staa START+2
+000d		:	00;
+000e		:	1B;
+
+000f		:	08;	-- ldx #(START+2)
+0010		:	00;
+0011		:	1B;
+
+0012		:	02;	-- ldaa #0
+0013		:	00;
+
+0014		:	20;	-- beq HERE
+0015		:	14;
+
+0016		:	08;	-- LDX #$1800
+0017		:	00;
+0018		:	18;
+
+0019		:	09;	-- LDY #$1900
+001a		:	00;
+001b		:	19;
+
+001c		:	0C;	-- LDAA 0,X
+001d		:	00;
+
+001e		:	00;	-- TAB
+
+001f		:	13;	-- STAB 0,Y
+0020		:	00;
+
+0021		:	30;	-- INX
+
+0022		:	31;	-- INY
+
+0023		:	21;	-- BNE LOOP
+0024		:	1C;
+
+[0025..0fff]	:	00;
+
+
+END

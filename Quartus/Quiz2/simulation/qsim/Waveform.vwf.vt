@@ -19,7 +19,7 @@
 // the top level entity of the current Quartus project .The user can use this   
 // testbench to simulate his design using a third-party simulation tool .       
 // *****************************************************************************
-// Generated on "02/13/2025 19:17:38"
+// Generated on "03/03/2025 15:07:50"
                                                                                 
 // Verilog Test Bench (with test vectors) for design :                          quiz2
 // 
@@ -34,7 +34,8 @@ reg A;
 reg B_L;
 reg C_L;
 reg D;
-reg S_L;
+reg S0;
+reg S1;
 // wires                                               
 wire Y;
 
@@ -45,12 +46,13 @@ quiz2 i1 (
 	.B_L(B_L),
 	.C_L(C_L),
 	.D(D),
-	.S_L(S_L),
+	.S0(S0),
+	.S1(S1),
 	.Y(Y)
 );
 initial 
 begin 
-#1200000 $finish;
+#1200000 $stop;
 end 
 
 // A
@@ -82,14 +84,6 @@ always
 begin
 	D = 1'b0;
 	D = #25000 1'b1;
-	#25000;
-end 
-
-// S_L
-always
-begin
-	S_L = 1'b0;
-	S_L = #25000 1'b1;
 	#25000;
 end 
 endmodule

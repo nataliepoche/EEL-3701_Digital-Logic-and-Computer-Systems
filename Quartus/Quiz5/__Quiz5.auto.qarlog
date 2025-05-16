@@ -1,0 +1,19 @@
+Quartus Prime Archive log --	C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/Quiz5/__Quiz5.auto.qarlog
+
+Archive:	C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/Quiz5/__Quiz5.auto.qar
+Date:		Thu Mar 27 19:19:06 2025
+Quartus Prime		22.1std.1 Build 917 02/14/2023 SC Lite Edition
+
+	=========== Files Selected: ===========
+C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/Quiz5/db/Quiz5.qpf
+C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/Quiz5/output_files/Quiz5.flow.rpt
+C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/Quiz5/output_files/Quiz5.map.rpt
+C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/Quiz5/output_files/Quiz5.map.summary
+Quiz5.bdf
+Quiz5.qsf
+c:/intelfpga_lite/22.1std/quartus/bin64/assignment_defaults.qdf
+comLog.vhd
+	======= Total: 8 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.

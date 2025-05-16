@@ -1,0 +1,41 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "Y0",
+					"strict" : false
+				},
+				{
+					"name" : "Q0",
+					"strict" : false
+				},
+				{
+					"name" : "T0",
+					"strict" : false
+				},
+				{
+					"name" : "Sp_L",
+					"strict" : false
+				},
+				{
+					"name" : "Move",
+					"strict" : false
+				},
+				{
+					"name" : "Go_L",
+					"strict" : false
+				},
+				{
+					"name" : "CLK",
+					"strict" : false
+				},
+				{
+					"name" : "Start_L",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

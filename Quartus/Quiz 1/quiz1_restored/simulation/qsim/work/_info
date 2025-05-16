@@ -1,0 +1,73 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/Quiz 1/quiz1_restored/simulation/qsim
+vhard_block
+Z1 !s110 1741035293
+!i10b 1
+!s100 :_TiT6Z7l;MgCPlSWe@Sn0
+I7BSh@gQ5i5<`;T]8l_D1D3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1741035290
+Z4 8quiz1.vo
+Z5 Fquiz1.vo
+L0 246
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1741035293.000000
+Z8 !s107 quiz1.vo|
+Z9 !s90 -work|work|quiz1.vo|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+vquiz1
+R1
+!i10b 1
+!s100 0W9GO@f[N[4C_DzgC4H913
+IT29b_3QDoS]8]cc6IP6eo1
+R2
+R0
+R3
+R4
+R5
+L0 32
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vquiz1_vlg_vec_tst
+R1
+!i10b 1
+!s100 RTBKB4020cmE>njLVMKiC0
+I<RKP0:zof8Y>YFkVno_BP2
+R2
+R0
+w1741035289
+8Waveform.vwf.vt
+FWaveform.vwf.vt
+L0 30
+R6
+r1
+!s85 0
+31
+R7
+!s107 Waveform.vwf.vt|
+!s90 -work|work|Waveform.vwf.vt|
+!i113 1
+R10
+R11

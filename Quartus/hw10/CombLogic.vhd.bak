@@ -1,0 +1,13 @@
+library ieee;
+use ieee.std_logic_1164.all;
+
+entity CombLogic is port(
+);
+end CombLogic;
+
+architecture behavior of CombLogic is
+	begin
+	
+	-- things
+	
+	end behavior;

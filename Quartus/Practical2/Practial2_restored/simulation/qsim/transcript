@@ -1,0 +1,44 @@
+# do Practial2.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 00:11:18 on Apr 17,2025
+# vlog -work work Practial2.vo 
+# -- Compiling module Practial2
+# -- Compiling module hard_block
+# 
+# Top level modules:
+# 	Practial2
+# End time: 00:11:18 on Apr 17,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 00:11:18 on Apr 17,2025
+# vlog -work work Waveform.vwf.vt 
+# -- Compiling module Practial2_vlg_vec_tst
+# 
+# Top level modules:
+# 	Practial2_vlg_vec_tst
+# End time: 00:11:18 on Apr 17,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -novopt -c -t 1ps -L fiftyfivenm_ver -L altera_ver -L altera_mf_ver -L 220model_ver -L sgate_ver -L altera_lnsim_ver work.Practial2_vlg_vec_tst 
+# Start time: 00:11:19 on Apr 17,2025
+# Loading work.Practial2_vlg_vec_tst
+# Loading work.Practial2
+# Loading work.hard_block
+# Loading fiftyfivenm_ver.fiftyfivenm_lcell_comb
+# Loading fiftyfivenm_ver.fiftyfivenm_io_obuf
+# Loading fiftyfivenm_ver.fiftyfivenm_io_ibuf
+# Loading altera_ver.dffeas
+# Loading fiftyfivenm_ver.fiftyfivenm_unvm
+# Loading fiftyfivenm_ver.fiftyfivenm_adcblock
+# Loading altera_ver.PRIM_GDFF_LOW
+# ** Warning: (vsim-3017) Practial2.vo(371): [TFMPC] - Too few port connections. Expected 8, found 7.
+#    Time: 0 ps  Iteration: 0  Instance: /Practial2_vlg_vec_tst/i1/\~QUARTUS_CREATED_ADC1~  File: /build/swbuild/SJ/nightly/19.1std/670/l64/work/modelsim/eda/sim_lib/fiftyfivenm_atoms.v
+# ** Warning: (vsim-3722) Practial2.vo(371): [TFMPC] - Missing connection for port 'clk_dft'.
+# ** Warning: (vsim-3017) Practial2.vo(394): [TFMPC] - Too few port connections. Expected 8, found 7.
+#    Time: 0 ps  Iteration: 0  Instance: /Practial2_vlg_vec_tst/i1/\~QUARTUS_CREATED_ADC2~  File: /build/swbuild/SJ/nightly/19.1std/670/l64/work/modelsim/eda/sim_lib/fiftyfivenm_atoms.v
+# ** Warning: (vsim-3722) Practial2.vo(394): [TFMPC] - Missing connection for port 'clk_dft'.
+# after#26
+# ** Note: $finish    : Waveform.vwf.vt(63)
+#    Time: 1200 ns  Iteration: 0  Instance: /Practial2_vlg_vec_tst
+# End time: 00:11:19 on Apr 17,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 4

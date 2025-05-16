@@ -1,0 +1,33 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "Q_NAND",
+					"strict" : false
+				},
+				{
+					"name" : "Q_NOR",
+					"strict" : false
+				},
+				{
+					"name" : "S_L",
+					"strict" : false
+				},
+				{
+					"name" : "R_L",
+					"strict" : false
+				},
+				{
+					"name" : "R",
+					"strict" : false
+				},
+				{
+					"name" : "S",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,24 @@
+Quartus Prime Archive log --	C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/Lab3/Lab3_2bit_Cnt/Lab3_2bit_Cnt.qarlog
+
+Archive:	C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/Lab3/Lab3_2bit_Cnt/Lab3_2bit_Cnt.qar
+Date:		Thu Feb 27 17:16:17 2025
+Quartus Prime		22.1std.1 Build 917 02/14/2023 SC Lite Edition
+
+	=========== Files Selected: ===========
+C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/Lab2/emilee/lab2_decoder_restored/lab2_decoder.bdf
+C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/Lab3/Lab3_2bit_Cnt/Lab3_2bit_Cnt.bdf
+C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/Lab3/Lab3_2bit_Cnt/Lab3_2bit_Cnt.qpf
+C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/Lab3/Lab3_2bit_Cnt/Lab3_2bit_Cnt.qsf
+C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/Lab3/Lab3_2bit_Cnt/Waveform.vwf
+C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/Lab3/Lab3_2bit_Cnt/lab2_decoder.bsf
+c:/intelfpga_lite/22.1std/quartus/bin64/assignment_defaults.qdf
+	======= Total: 7 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Sun Mar  2 16:53:12 2025
+Source archive file:	C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/Lab3/Lab3_2bit_Cnt/Lab3_2bit_Cnt.qar
+Archive was extracted into	C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/Lab3/Lab3_2bit_Cnt/Lab3_2bit_Cnt_restored/
+		 - successfully.

@@ -1,0 +1,82 @@
+Restore Archived Project report for Lab3_3bit_Cnt
+Mon Mar  3 01:03:21 2025
+Quartus Prime Version 22.1std.1 Build 917 02/14/2023 SC Lite Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Restore Archived Project Summary
+  3. Restore Archived Project Messages
+  4. Files Restored
+  5. Files Not Restored
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 2023  Intel Corporation. All rights reserved.
+Your use of Intel Corporation's design tools, logic functions 
+and other software and tools, and any partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Intel Program License 
+Subscription Agreement, the Intel Quartus Prime License Agreement,
+the Intel FPGA IP License Agreement, or other applicable license
+agreement, including, without limitation, that your use is for
+the sole purpose of programming logic devices manufactured by
+Intel and sold by Intel or its authorized distributors.  Please
+refer to the applicable agreement for further details, at
+https://fpgasoftware.intel.com/eula.
+
+
+
++-------------------------------------------------------------------------+
+; Restore Archived Project Summary                                        ;
++---------------------------------+---------------------------------------+
+; Restore Archived Project Status ; Successful - Mon Mar  3 01:03:21 2025 ;
+; Revision Name                   ; Lab3_3bit_Cnt                         ;
+; Top-level Entity Name           ; Lab3_3bit_Cnt                         ;
+; Family                          ; MAX 10                                ;
++---------------------------------+---------------------------------------+
+
+
++-----------------------------------+
+; Restore Archived Project Messages ;
++-----------------------------------+
+Info: Successfully restored 'C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/Lab3/Lab3_3bit_Cnt/Lab3_3bit_Cnt.qar' into the 'C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/Lab3/Lab3_3bit_Cnt/Lab3_3bit_Cnt_restored2/' directory
+Info: Generated report 'Lab3_3bit_Cnt.restore.rpt'
+Info (23030): Evaluation of Tcl script c:/intelfpga_lite/22.1std/quartus/common/tcl/apps/qpm/qar.tcl was successful
+Info: Quartus Prime Shell was successful. 0 errors, 0 warnings
+    Info: Peak virtual memory: 4843 megabytes
+    Info: Processing ended: Mon Mar  3 01:03:21 2025
+    Info: Elapsed time: 00:00:01
+    Info: Total CPU time (on all processors): 00:00:01
+
+
++----------------------------------------------------+
+; Files Restored                                     ;
++----------------------------------------------------+
+; File Name                                          ;
++----------------------------------------------------+
+; qar_info.json                                      ;
+; Lab2/emilee/lab2_decoder_restored/lab2_decoder.bdf ;
+; Lab3/Lab3_3bit_Cnt/Lab3_3bit_Cnt.qpf               ;
+; Lab3/Lab3_3bit_Cnt/Lab3_3bit_Cnt.qsf               ;
+; Lab3/Lab3_3bit_Cnt/Waveform.vwf                    ;
+; Lab3/Lab3_3bit_Cnt/lab2_decoder.bsf                ;
+; Lab3/Lab3_3bit_Cnt/lab3_3bit_cnt.bdf               ;
+; Lab3/Lab3_3bit_Cnt/assignment_defaults.qdf         ;
++----------------------------------------------------+
+
+
++--------------------+
+; Files Not Restored ;
++--------------------+
+; File Name          ;
++--------------------+
+
+

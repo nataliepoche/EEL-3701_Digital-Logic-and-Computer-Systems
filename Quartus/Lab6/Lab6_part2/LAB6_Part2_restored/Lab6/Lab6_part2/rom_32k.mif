@@ -1,0 +1,44 @@
+-- Copyright (C) 2023  Intel Corporation. All rights reserved.
+-- Your use of Intel Corporation's design tools, logic functions 
+-- and other software and tools, and any partner logic 
+-- functions, and any output files from any of the foregoing 
+-- (including device programming or simulation files), and any 
+-- associated documentation or information are expressly subject 
+-- to the terms and conditions of the Intel Program License 
+-- Subscription Agreement, the Intel Quartus Prime License Agreement,
+-- the Intel FPGA IP License Agreement, or other applicable license
+-- agreement, including, without limitation, that your use is for
+-- the sole purpose of programming logic devices manufactured by
+-- Intel and sold by Intel or its authorized distributors.  Please
+-- refer to the applicable agreement for further details, at
+-- https://fpgasoftware.intel.com/eula.
+
+-- Quartus Prime generated Memory Initialization File (.mif)
+
+DEPTH=32768; 			% Memory Depth %
+WIDTH=8; 			% Memory Width, needs to be a decimal number %
+
+ADDRESS_RADIX=HEX; 		% Addesss and value radixes are optional %
+DATA_RADIX=HEX; 		% Enter BIN, DEC, HEX, or OCT Unless specified otherwise, %
+				% radixes = HEX %
+
+-- Specify values for addresses, can be single address or range
+
+CONTENT 
+BEGIN
+[0..4A0F]  	: 0; 	% First $80 values are 0 %
+2B70 		: 2; 	% Single Address Data, at address 2B70 value is 2 %
+2B71 		: 7;
+2B72 		: 0;
+2B73 		: 2;
+2B74 		: 3;
+2B75 		: 1;
+2B76 		: 3;
+2B77 		: 1;
+2B78 		: 1;
+2B79 		: 5;
+2B7A 		: 5;
+2B7B 		: 1;
+2B7C 		: 0;
+[2B7D..7FFF]	: 0;
+END;

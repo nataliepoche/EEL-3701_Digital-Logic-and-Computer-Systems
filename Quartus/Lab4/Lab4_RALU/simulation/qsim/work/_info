@@ -1,0 +1,75 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/Lab4/Lab4_RALU/simulation/qsim
+vhard_block
+Z1 !s110 1741888392
+!i10b 1
+!s100 ?YN__D7ken>c8W4jlcb?h2
+I2TlZV3aHSiiNC:ozg8B:43
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1741888389
+Z4 8Lab4_RALU.vo
+Z5 FLab4_RALU.vo
+L0 3002
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1741888392.000000
+Z8 !s107 Lab4_RALU.vo|
+Z9 !s90 -work|work|Lab4_RALU.vo|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+vLab4_RALU
+R1
+!i10b 1
+!s100 Y?Q=JNNN]LjA2iF2^[7c`3
+IR:T9[0aJzRHOB@d;@4k6h2
+R2
+R0
+R3
+R4
+R5
+L0 32
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@lab4_@r@a@l@u
+vLab4_RALU_vlg_vec_tst
+R1
+!i10b 1
+!s100 <9a0]MK4iaVlczHQ3[gMV0
+I??IWH]L[NGJa^VZo_`SFV2
+R2
+R0
+w1741888387
+8Waveform.vwf.vt
+FWaveform.vwf.vt
+L0 30
+R6
+r1
+!s85 0
+31
+R7
+!s107 Waveform.vwf.vt|
+!s90 -work|work|Waveform.vwf.vt|
+!i113 1
+R10
+R11
+n@lab4_@r@a@l@u_vlg_vec_tst

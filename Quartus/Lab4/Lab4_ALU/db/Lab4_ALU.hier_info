@@ -1,0 +1,143 @@
+|Lab4_ALU
+COUT <= inst1.DB_MAX_OUTPUT_PORT_TYPE
+A[0] => 74283:inst7.A1
+A[0] => inst12.IN1
+A[0] => inst8.IN0
+A[0] => inst16.IN0
+A[1] => 74283:inst7.A2
+A[1] => inst13.IN1
+A[1] => inst11.IN0
+A[1] => inst17.IN0
+A[2] => 74283:inst7.A3
+A[2] => inst14.IN1
+A[2] => inst9.IN0
+A[2] => inst18.IN0
+A[3] => 74283:inst7.A4
+A[3] => inst15.IN1
+A[3] => inst10.IN0
+A[3] => inst19.IN0
+B[0] => 74283:inst7.B1
+B[0] => inst12.IN0
+B[0] => inst16.IN1
+B[1] => 74283:inst7.B2
+B[1] => inst13.IN0
+B[1] => inst17.IN1
+B[2] => 74283:inst7.B3
+B[2] => inst14.IN0
+B[2] => inst18.IN1
+B[3] => 74283:inst7.B4
+B[3] => inst15.IN0
+B[3] => inst19.IN1
+S[0] => inst5.IN0
+S[0] => 74153:inst.A
+S[0] => 74153:inst6.A
+S[1] => inst1.IN2
+S[1] => 74153:inst.B
+S[1] => 74153:inst6.B
+F[0] <= 74153:inst.1Y
+F[1] <= 74153:inst.2Y
+F[2] <= 74153:inst6.1Y
+F[3] <= 74153:inst6.2Y
+FOR[0] <= inst12.DB_MAX_OUTPUT_PORT_TYPE
+FOR[1] <= inst13.DB_MAX_OUTPUT_PORT_TYPE
+FOR[2] <= inst14.DB_MAX_OUTPUT_PORT_TYPE
+FOR[3] <= inst15.DB_MAX_OUTPUT_PORT_TYPE
+FNOT[0] <= inst8.DB_MAX_OUTPUT_PORT_TYPE
+FNOT[1] <= inst11.DB_MAX_OUTPUT_PORT_TYPE
+FNOT[2] <= inst9.DB_MAX_OUTPUT_PORT_TYPE
+FNOT[3] <= inst10.DB_MAX_OUTPUT_PORT_TYPE
+FSUM[0] <= 74283:inst7.SUM1
+FSUM[1] <= 74283:inst7.SUM2
+FSUM[2] <= 74283:inst7.SUM3
+FSUM[3] <= 74283:inst7.SUM4
+FAND[0] <= inst16.DB_MAX_OUTPUT_PORT_TYPE
+FAND[1] <= inst17.DB_MAX_OUTPUT_PORT_TYPE
+FAND[2] <= inst18.DB_MAX_OUTPUT_PORT_TYPE
+FAND[3] <= inst19.DB_MAX_OUTPUT_PORT_TYPE
+CIN => ~NO_FANOUT~
+
+
+|Lab4_ALU|74283:inst7
+a[1] => f74283:sub.a[1]
+a[2] => f74283:sub.a[2]
+a[3] => f74283:sub.a[3]
+a[4] => f74283:sub.a[4]
+b[1] => f74283:sub.b[1]
+b[2] => f74283:sub.b[2]
+b[3] => f74283:sub.b[3]
+b[4] => f74283:sub.b[4]
+cin => f74283:sub.cin
+cout <= f74283:sub.cout
+sum[1] <= f74283:sub.sum[1]
+sum[2] <= f74283:sub.sum[2]
+sum[3] <= f74283:sub.sum[3]
+sum[4] <= f74283:sub.sum[4]
+
+
+|Lab4_ALU|74283:inst7|f74283:sub
+SUM1 <= 76.DB_MAX_OUTPUT_PORT_TYPE
+CIN => 108.DATAIN
+A1 => 77.IN1
+A1 => 92.IN1
+A1 => 93.IN1
+B1 => 76.IN1
+B1 => 93.IN0
+B1 => 94.IN1
+COUT <= 91.DB_MAX_OUTPUT_PORT_TYPE
+A2 => 95.IN1
+A2 => 97.IN1
+A2 => 79.IN1
+B2 => 97.IN0
+B2 => 96.IN1
+B2 => 78.IN1
+A3 => 98.IN1
+A3 => 100.IN1
+A3 => 81.IN1
+B3 => 100.IN0
+B3 => 99.IN1
+B3 => 80.IN1
+A4 => 101.IN1
+A4 => 103.IN1
+A4 => 83.IN1
+B4 => 103.IN0
+B4 => 102.IN1
+B4 => 82.IN1
+SUM4 <= 82.DB_MAX_OUTPUT_PORT_TYPE
+SUM3 <= 80.DB_MAX_OUTPUT_PORT_TYPE
+SUM2 <= 78.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Lab4_ALU|74153:inst
+1Y <= 9.DB_MAX_OUTPUT_PORT_TYPE
+1GN => 26.IN0
+B => 27.IN0
+A => 29.IN0
+1C0 => 1.IN3
+1C1 => 2.IN3
+1C2 => 3.IN3
+1C3 => 4.IN3
+2Y <= 10.DB_MAX_OUTPUT_PORT_TYPE
+2C0 => 5.IN0
+2GN => 25.IN0
+2C1 => 6.IN0
+2C2 => 7.IN0
+2C3 => 8.IN0
+
+
+|Lab4_ALU|74153:inst6
+1Y <= 9.DB_MAX_OUTPUT_PORT_TYPE
+1GN => 26.IN0
+B => 27.IN0
+A => 29.IN0
+1C0 => 1.IN3
+1C1 => 2.IN3
+1C2 => 3.IN3
+1C3 => 4.IN3
+2Y <= 10.DB_MAX_OUTPUT_PORT_TYPE
+2C0 => 5.IN0
+2GN => 25.IN0
+2C1 => 6.IN0
+2C2 => 7.IN0
+2C3 => 8.IN0
+
+

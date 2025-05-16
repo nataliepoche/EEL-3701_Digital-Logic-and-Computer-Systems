@@ -1,0 +1,17 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/Practical1/Practical1.bdf
+source_file = 1, C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/Practical1/Waveform.vwf
+source_file = 1, C:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/Practical1/db/Practical1.cbx.xml
+design_name = hard_block
+design_name = Practical1
+instance = comp, \~QUARTUS_CREATED_GND~I\, ~QUARTUS_CREATED_GND~I, Practical1, 1
+instance = comp, \Q1~output\, Q1~output, Practical1, 1
+instance = comp, \Q0~output\, Q0~output, Practical1, 1
+instance = comp, \Y_L~output\, Y_L~output, Practical1, 1
+instance = comp, \A~input\, A~input, Practical1, 1
+instance = comp, \B_L~input\, B_L~input, Practical1, 1
+instance = comp, \Start_L~input\, Start_L~input, Practical1, 1
+instance = comp, \CLK~input\, CLK~input, Practical1, 1
+instance = comp, \~QUARTUS_CREATED_UNVM~\, ~QUARTUS_CREATED_UNVM~, Practical1, 1
+instance = comp, \~QUARTUS_CREATED_ADC1~\, ~QUARTUS_CREATED_ADC1~, Practical1, 1
+instance = comp, \~QUARTUS_CREATED_ADC2~\, ~QUARTUS_CREATED_ADC2~, Practical1, 1

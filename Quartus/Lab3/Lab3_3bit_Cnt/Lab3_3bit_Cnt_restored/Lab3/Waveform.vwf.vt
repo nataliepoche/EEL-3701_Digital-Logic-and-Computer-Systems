@@ -1,0 +1,145 @@
+// Copyright (C) 2023  Intel Corporation. All rights reserved.
+// Your use of Intel Corporation's design tools, logic functions 
+// and other software and tools, and any partner logic 
+// functions, and any output files from any of the foregoing 
+// (including device programming or simulation files), and any 
+// associated documentation or information are expressly subject 
+// to the terms and conditions of the Intel Program License 
+// Subscription Agreement, the Intel Quartus Prime License Agreement,
+// the Intel FPGA IP License Agreement, or other applicable license
+// agreement, including, without limitation, that your use is for
+// the sole purpose of programming logic devices manufactured by
+// Intel and sold by Intel or its authorized distributors.  Please
+// refer to the applicable agreement for further details, at
+// https://fpgasoftware.intel.com/eula.
+
+// *****************************************************************************
+// This file contains a Verilog test bench with test vectors .The test vectors  
+// are exported from a vector file in the Quartus Waveform Editor and apply to  
+// the top level entity of the current Quartus project .The user can use this   
+// testbench to simulate his design using a third-party simulation tool .       
+// *****************************************************************************
+// Generated on "03/03/2025 09:31:12"
+                                                                                
+// Verilog Test Bench (with test vectors) for design :                          lab3_3bit_cnt
+// 
+// Simulation tool : 3rd Party
+// 
+
+`timescale 1 ps/ 1 ps
+module lab3_3bit_cnt_vlg_vec_tst();
+// constants                                           
+// general purpose registers
+reg BA;
+reg CLK;
+reg CLR0;
+reg CLR1;
+reg CLR2;
+reg FO;
+reg SET0;
+reg SET1;
+reg SET2;
+// wires                                               
+wire A;
+wire B;
+wire C;
+wire D;
+wire E;
+wire F;
+wire G;
+wire Q0;
+wire Q1;
+wire Q2;
+wire Sp_L;
+wire [3:0] X;
+
+// assign statements (if any)                          
+lab3_3bit_cnt i1 (
+// port map - connection between master ports and signals/registers   
+	.A(A),
+	.B(B),
+	.BA(BA),
+	.C(C),
+	.CLK(CLK),
+	.CLR0(CLR0),
+	.CLR1(CLR1),
+	.CLR2(CLR2),
+	.D(D),
+	.E(E),
+	.F(F),
+	.FO(FO),
+	.G(G),
+	.Q0(Q0),
+	.Q1(Q1),
+	.Q2(Q2),
+	.SET0(SET0),
+	.SET1(SET1),
+	.SET2(SET2),
+	.Sp_L(Sp_L),
+	.X(X)
+);
+initial 
+begin 
+#1000000 $stop;
+end 
+
+// CLK
+always
+begin
+	CLK = 1'b0;
+	CLK = #25000 1'b1;
+	#25000;
+end 
+
+// FO
+initial
+begin
+	FO = 1'b0;
+end 
+
+// BA
+initial
+begin
+	BA = 1'b0;
+end 
+
+// CLR2
+initial
+begin
+	CLR2 = 1'b0;
+end 
+
+// CLR1
+initial
+begin
+	CLR1 = 1'b0;
+end 
+
+// CLR0
+initial
+begin
+	CLR0 = 1'b0;
+end 
+
+// SET2
+initial
+begin
+	SET2 = 1'b0;
+	SET2 = #10000 1'b1;
+end 
+
+// SET1
+initial
+begin
+	SET1 = 1'b0;
+	SET1 = #10000 1'b1;
+end 
+
+// SET0
+initial
+begin
+	SET0 = 1'b0;
+	SET0 = #10000 1'b1;
+end 
+endmodule
+

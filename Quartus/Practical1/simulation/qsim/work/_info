@@ -1,0 +1,75 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Owner/CLionProjects/EEL-3701_Digital-Logic-and-Computer-Systems/Quartus/Practical1/simulation/qsim
+vhard_block
+Z1 !s110 1741057605
+!i10b 1
+!s100 m=KQ0`RkMd]3RaG5:Xf7V0
+IP8JP7B`G;b_Y^>nM>g_H:0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1741057605
+Z4 8Practical1.vo
+Z5 FPractical1.vo
+L0 300
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1741057605.000000
+Z8 !s107 Practical1.vo|
+Z9 !s90 -work|work|Practical1.vo|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+vPractical1
+R1
+!i10b 1
+!s100 UYgXDJe>KdU1IHRE7ln`R1
+I72kE:GlNe@k9c[3zBM5UH1
+R2
+R0
+R3
+R4
+R5
+L0 32
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@practical1
+vPractical1_vlg_vec_tst
+R1
+!i10b 1
+!s100 TKUELl8>g>PSlJGOKbloR1
+Im=lC0lf;_<i24izId7_3:0
+R2
+R0
+w1741057604
+8Waveform.vwf.vt
+FWaveform.vwf.vt
+L0 30
+R6
+r1
+!s85 0
+31
+R7
+!s107 Waveform.vwf.vt|
+!s90 -work|work|Waveform.vwf.vt|
+!i113 1
+R10
+R11
+n@practical1_vlg_vec_tst

@@ -1,0 +1,77 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'ROM:inst22|inst1'
+Slack : -3.689
+TNS   : -40.548
+
+Type  : Slow 1200mV 85C Model Setup 'Mem_CLK'
+Slack : -0.634
+TNS   : -0.634
+
+Type  : Slow 1200mV 85C Model Hold 'ROM:inst22|inst1'
+Slack : 0.310
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'Mem_CLK'
+Slack : 0.518
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Mem_CLK'
+Slack : -3.000
+TNS   : -4.222
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ROM:inst22|inst1'
+Slack : -2.186
+TNS   : -22.960
+
+Type  : Slow 1200mV 0C Model Setup 'ROM:inst22|inst1'
+Slack : -3.302
+TNS   : -35.696
+
+Type  : Slow 1200mV 0C Model Setup 'Mem_CLK'
+Slack : -0.440
+TNS   : -0.440
+
+Type  : Slow 1200mV 0C Model Hold 'ROM:inst22|inst1'
+Slack : 0.280
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'Mem_CLK'
+Slack : 0.374
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Mem_CLK'
+Slack : -3.000
+TNS   : -4.222
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ROM:inst22|inst1'
+Slack : -2.030
+TNS   : -22.804
+
+Type  : Fast 1200mV 0C Model Setup 'ROM:inst22|inst1'
+Slack : -1.255
+TNS   : -10.384
+
+Type  : Fast 1200mV 0C Model Setup 'Mem_CLK'
+Slack : -0.137
+TNS   : -0.137
+
+Type  : Fast 1200mV 0C Model Hold 'ROM:inst22|inst1'
+Slack : 0.141
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'Mem_CLK'
+Slack : 0.317
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Mem_CLK'
+Slack : -3.000
+TNS   : -4.075
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ROM:inst22|inst1'
+Slack : -1.000
+TNS   : -18.000
+
+------------------------------------------------------------

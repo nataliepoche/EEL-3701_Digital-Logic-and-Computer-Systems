@@ -1,0 +1,117 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "Hold[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Hold[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Hold[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Hold[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Output[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Output[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Output[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Output[0]",
+					"strict" : false
+				},
+				{
+					"name" : "In[3]",
+					"strict" : false
+				},
+				{
+					"name" : "In[2]",
+					"strict" : false
+				},
+				{
+					"name" : "In[1]",
+					"strict" : false
+				},
+				{
+					"name" : "In[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Right[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Right[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Right[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Right[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Left[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Left[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Left[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Left[0]",
+					"strict" : false
+				},
+				{
+					"name" : "S[1]",
+					"strict" : false
+				},
+				{
+					"name" : "S[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Input[3]",
+					"strict" : false
+				},
+				{
+					"name" : "CLK",
+					"strict" : false
+				},
+				{
+					"name" : "Input[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Input[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Input[0]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
